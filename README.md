@@ -2,7 +2,7 @@
 
 A showcase of my projects, experience and abilities.
 
-# Projects Handled
+## Projects Handled
 ---
 
 ## **Ongoing Project**
