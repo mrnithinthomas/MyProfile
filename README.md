@@ -9,6 +9,31 @@ mrnithinthomas/mrnithinthomas is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+# Projects Handled
+---
+
+## **Ongoing Project**
+
+***Multiple Linear Regression Model for Shrap House Pricing***
+
+I am planning to build a multiple linear regression Model which can accurately predicit the property prices in Washington DC at the initial stage and later on, develop the model which can predict the prices of properties located in other states of USA and thus expand the business to other states.
+
+Tools used:-
+- PowerBI
+- Python
+- MySQL
+- Tableau
+- RStudio
+
+## **Lean Projects**
+1. Cycle time reduction for short duration Thermal tasks for IHI Aero Division - ROI-8(FY21)
+2. Improvement opportunity for Lead time of Heat Exchanger Detail Eng. Support for Toshiba Power Division - ROI-20(FY20)
+3. Cycle Time Reduction in Designing of Auxiliary Components for Power Generation for Siemens Power Division - ROI–14(FY19)
+    - Won ISI Award in 2019 competition
+4. Lean Implementation at Titan Watch Division Captive Vendor
+5. SUPRA SAEINDIA Student Formula- Team Lead and Driver
+
+
 # Professional Experiences
 ---
 
@@ -64,3 +89,22 @@ Tools and Technologies used
 - MS Visio
 - Kanban board
 - MS Projects
+
+## **Engineer | [Ibhrahim Jassim Al-Hail Trading & Contracting W.L.L.]()**
+
+Job role invloved:-
+- Make to order made possible within 30 days (otherwise it was 60 days)
+- Vendor development for reducing workload and increasing quality.
+- Design product according to customer requirement.
+- Design and modification made possible before the actual delivery of CBU thereby reducing 40% of waiting time.
+- Improvement in the production process- Lean Implementation
+- Continues improvement of vendor and price negotiation.
+
+
+## **Service Advisor | [JOSH Motors Force](https://www.dealerservicecenter.in/list/bus/force-motors/kerala/alappuzha/josh-motors/2277984)**
+
+Job role invloved:-
+- Service Supervision- Improved customer satisfaction
+- Inventory Management- FSN introduction saving 30% inventory cost
+- Job allocation which helped in 10% more engagement of employees.
+- Order Fulfilment- continues reporting helped in attain 99% order fulfillment and problem-solving.
