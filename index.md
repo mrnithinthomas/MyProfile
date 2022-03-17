@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Profilio
 
 You can use the [editor on GitHub](https://github.com/mrnithinthomas/mrnithinthomas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
