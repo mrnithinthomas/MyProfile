@@ -36,7 +36,7 @@ Tools used:-
 
 ## **Senior Process Analyst | [QuEST Global](https://www.quest-global.com/)**
 
-Job role invloved:-
+Job role involved:-
 - Quality Single Point of Contact (QSPC) for a delivery unit in QuEST.
 - Driving a data-driven approach in problem-solving & decision-making process in day-to-day Project management.
 - Conducting weekly/monthly meetings to monitor the project-specific KPIs and take appropriate action if required.
@@ -63,7 +63,7 @@ Achievements
 
 ## **Project Leader | [Tide Technocrats Private Limited](https://www.tidetechnocrats.com/)**
 
-Job role invloved:-
+Job role involved:-
 - Managing the project formulation and implementation stages for setting up 33 Plants in Swachh Andhra Government Project.
 -  Worked on ZOHO Projects, Trello, and MS Projects during formulation stage.
 -  Established the project team through technical recruitment.
@@ -78,7 +78,7 @@ Tools and Technologies used
 
 ## **Management Intern | [TITAN COMPANY LIMITED](https://www.titan.co.in/)**
 
-Job role invloved:-
+Job role involved:-
 - Implement lean in process at a vendor location
 - Lean out the operaction process
 
@@ -89,7 +89,7 @@ Tools and Technologies used
 
 ## **Engineer | [Ibhrahim Jassim Al-Hail Trading & Contracting W.L.L.]()**
 
-Job role invloved:-
+Job role involved:-
 - Make to order made possible within 30 days (otherwise it was 60 days)
 - Vendor development for reducing workload and increasing quality.
 - Design product according to customer requirement.
@@ -100,7 +100,7 @@ Job role invloved:-
 
 ## **Service Advisor | [JOSH Motors Force](https://www.dealerservicecenter.in/list/bus/force-motors/kerala/alappuzha/josh-motors/2277984)**
 
-Job role invloved:-
+Job role involved:-
 - Service Supervision- Improved customer satisfaction
 - Inventory Management- FSN introduction saving 30% inventory cost
 - Job allocation which helped in 10% more engagement of employees.
