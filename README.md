@@ -19,11 +19,16 @@ Tools used:-
 - RStudio
 
 ## **Lean Projects**
+
 #### Cycle time reduction for short duration Thermal tasks for IHI Aero Division - ROI-8(FY21)
+
 #### Improvement opportunity for Lead time of Heat Exchanger Detail Eng. Support for Toshiba Power Division - ROI-20(FY20)
+
 #### Cycle Time Reduction in Designing of Auxiliary Components for Power Generation for Siemens Power Division - ROI–14(FY19)
     - Won ISI Award in 2019 competition
+    
 #### Lean Implementation at Titan Watch Division Captive Vendor
+
 #### SUPRA SAEINDIA Student Formula- Team Lead and Driver
 
 
