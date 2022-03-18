@@ -33,7 +33,7 @@ Tools used:-
 SAEINDIA is an affiliate society of SAE International, registered as an Indian non profit engineering and scientific society dedicated to the advancement of mobility community in India.
 This event provides a real world engineering challenge for the SAEINDIA student members that reflects the steps involved in the entire process from design and engineering to production to marketing and endurance.
 
-#### <details>
+<details>
 <summary> SUPRA SAEINDIA Student Formula- Team Lead and Driver</summary>
 <br>
 SAEINDIA is an affiliate society of SAE International, registered as an Indian non profit engineering and scientific society dedicated to the advancement of mobility community in India.
