@@ -26,12 +26,15 @@ Tools used:-
 #### Cycle Time Reduction in Designing of Auxiliary Components for Power Generation for Siemens Power Division - ROI–14(FY19)
     - Won ISI Award in 2019 competition
     
-#### Lean Implementation at Titan Watch Division Captive Vendor
 
-#### SUPRA SAEINDIA Student Formula- Team Lead and Driver
+<details>
+<summary> Lean Implementation at Titan Watch Division Captive Vendor</summary>
+<br>
+The need of Industry today is to manage, sustain and expand businesses, so lean operations can offer knowledge in the areas of Project Management, Total Quality Management, Lean Manufacturing and Planning, Supply Chain Management, Manufacturing and Service Operations Management, Technology Management etc.,
+This internship report records the two months’ internship work on “Lean Implementation at Titans Captive Vendor” at Titan Company Limited, a manufacturing company located in Hosur, specialized in making watches. The report focus on an improved layout, workstation design, line balancing and improving the process carried out with an introduction to various concepts of lean manufacturing. Special emphasis is put on the watch manufacturing process, understanding of which was necessary for the study. Then the report provides a broad description of the industry and the company. Then it talks about the research methodology followed and the tools used. Later this report presents the data collected about various wastes in the company, analysis of the same and its interpretations. Various tools were used for the analysis purpose.
+Finally, the report concludes with the findings derived during the course of study and the suggestions to reduce various wastes in the company.
+</details>
 
-SAEINDIA is an affiliate society of SAE International, registered as an Indian non profit engineering and scientific society dedicated to the advancement of mobility community in India.
-This event provides a real world engineering challenge for the SAEINDIA student members that reflects the steps involved in the entire process from design and engineering to production to marketing and endurance.
 
 <details>
 <summary> SUPRA SAEINDIA Student Formula- Team Lead and Driver</summary>
