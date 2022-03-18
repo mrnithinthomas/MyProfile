@@ -2,8 +2,9 @@
 
 A showcase of my projects, experience and abilities.
 
-## Projects Handled
+# Projects Handled
 ---
+
 ## **Ongoing Project**
 
 ***Multiple Linear Regression Model for Shrap House Pricing***
