@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cars and Bikes, infact anything that runs and flies
 - 🌱 I’m currently a Data Analytics Student
 - 💞️ I’m looking to collaborate on learning and mutual learning
-- 📧 [Email](mrnithinthomas@gmail.com)
+- 📧 [Email](mailto:mrnithinthomas@gmail.com)
 - 🔗 [Linkedin](https://www.linkedin.com/in/mrnithinthomas/)
 
 <!---
