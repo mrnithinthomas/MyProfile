@@ -58,7 +58,7 @@ This event provides a real world engineering challenge for the SAEINDIA student 
 
 # Professional Experiences
 ---
-##Senior Process Analyst | [QuEST Global](https://www.quest-global.com/)
+**Senior Process Analyst | [QuEST Global](https://www.quest-global.com/) | 2018-2021**
 <details>
 <summary> 
 More Details
@@ -90,7 +90,7 @@ Achievements
 - On The Fly Award 2019 on Overall FY Performance
 </details>
 
-## **Project Leader | [Tide Technocrats Private Limited](https://www.tidetechnocrats.com/)**
+**Project Leader | [Tide Technocrats Private Limited](https://www.tidetechnocrats.com/) | 2018**
 <details>
 <summary> 
 More Details
@@ -109,7 +109,7 @@ Tools and Technologies used
 - MS Projects
 </details>
 
-## **Management Intern | [TITAN COMPANY LIMITED](https://www.titan.co.in/)**
+**Management Intern | [TITAN COMPANY LIMITED](https://www.titan.co.in/) | 2015-2016**
 <details>
 <summary> 
 More Details
@@ -125,7 +125,7 @@ Tools and Technologies used
 - MS Projects
 </details>
 
-## **Engineer | [Ibhrahim Jassim Al-Hail Trading & Contracting W.L.L.]()**
+**Engineer | [Ibhrahim Jassim Al-Hail Trading & Contracting W.L.L.]() | 2014-2015**
 <details>
 <summary> 
 More Details
@@ -138,17 +138,4 @@ Job role involved:-
 - Design and modification made possible before the actual delivery of CBU thereby reducing 40% of waiting time.
 - Improvement in the production process- Lean Implementation
 - Continues improvement of vendor and price negotiation.
-</details>
-
-## **Service Advisor | [JOSH Motors Force](https://www.dealerservicecenter.in/list/bus/force-motors/kerala/alappuzha/josh-motors/2277984)**
-<details>
-<summary> 
-More Details
-</summary>
-<br>
-Job role involved:-
-- Service Supervision- Improved customer satisfaction
-- Inventory Management- FSN introduction saving 30% inventory cost
-- Job allocation which helped in 10% more engagement of employees.
-- Order Fulfilment- continues reporting helped in attain 99% order fulfillment and problem-solving.
 </details>
