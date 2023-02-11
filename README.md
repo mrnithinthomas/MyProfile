@@ -61,6 +61,7 @@ This event provides a real world engineering challenge for the SAEINDIA student 
 <details>
 <summary>## **Senior Process Analyst | [QuEST Global](https://www.quest-global.com/)**</summary>
 <br>
+    
 Job role involved:-
 - Quality Single Point of Contact (QSPC) for a delivery unit in QuEST.
 - Driving a data-driven approach in problem-solving & decision-making process in day-to-day Project management.
