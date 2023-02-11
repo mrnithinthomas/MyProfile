@@ -91,7 +91,11 @@ Achievements
 </details>
 
 ## **Project Leader | [Tide Technocrats Private Limited](https://www.tidetechnocrats.com/)**
-
+<details>
+<summary> 
+More Details
+</summary>
+<br>
 Job role involved:-
 - Managing the project formulation and implementation stages for setting up 33 Plants in Swachh Andhra Government Project.
 -  Worked on ZOHO Projects, Trello, and MS Projects during formulation stage.
@@ -103,10 +107,14 @@ Tools and Technologies used
 - Trello
 - Zoho Projects
 - MS Projects
-
+</details>
 
 ## **Management Intern | [TITAN COMPANY LIMITED](https://www.titan.co.in/)**
-
+<details>
+<summary> 
+More Details
+</summary>
+<br>
 Job role involved:-
 - Implement lean in process at a vendor location
 - Lean out the operaction process
@@ -115,9 +123,13 @@ Tools and Technologies used
 - MS Visio
 - Kanban board
 - MS Projects
-
+</details>
 ## **Engineer | [Ibhrahim Jassim Al-Hail Trading & Contracting W.L.L.]()**
-
+<details>
+<summary> 
+More Details
+</summary>
+<br>
 Job role involved:-
 - Make to order made possible within 30 days (otherwise it was 60 days)
 - Vendor development for reducing workload and increasing quality.
@@ -125,12 +137,17 @@ Job role involved:-
 - Design and modification made possible before the actual delivery of CBU thereby reducing 40% of waiting time.
 - Improvement in the production process- Lean Implementation
 - Continues improvement of vendor and price negotiation.
-
+</details>
 
 ## **Service Advisor | [JOSH Motors Force](https://www.dealerservicecenter.in/list/bus/force-motors/kerala/alappuzha/josh-motors/2277984)**
-
+<details>
+<summary> 
+More Details
+</summary>
+<br>
 Job role involved:-
 - Service Supervision- Improved customer satisfaction
 - Inventory Management- FSN introduction saving 30% inventory cost
 - Job allocation which helped in 10% more engagement of employees.
 - Order Fulfilment- continues reporting helped in attain 99% order fulfillment and problem-solving.
+</details>
