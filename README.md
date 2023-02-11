@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cars and Bikes, infact anything that runs and flies
 - 🌱 I’m currently a Data Analytics Student
 - 💞️ I’m looking to collaborate on learning and mutual learning
-- 📫 How to reach me via mrnithinthomas@gmail.com and also through Linkedin https://www.linkedin.com/in/mrnithinthomas/
+- 📧 [Email](mrnithinthomas@gmail.com)
+- 🔗 [Linkedin](https://www.linkedin.com/in/mrnithinthomas/)
 
 <!---
 mrnithinthomas/mrnithinthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
