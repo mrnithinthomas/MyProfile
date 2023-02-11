@@ -59,7 +59,8 @@ This event provides a real world engineering challenge for the SAEINDIA student 
 # Professional Experiences
 ---
 <details>
-<summary> ## **Senior Process Analyst | [QuEST Global](https://www.quest-global.com/)**</summary>
+<summary> 
+## **Senior Process Analyst | [QuEST Global](https://www.quest-global.com/)**</summary>
 <br>
     
 Job role involved:-
