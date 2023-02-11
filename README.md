@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrnithinthomas
-- 👀 I’m interested in automobiles and Bikes
+- 👀 I’m interested in Cars and Bikes, infact anything that runs and flies
 - 🌱 I’m currently a Data Analytics Student
 - 💞️ I’m looking to collaborate on learning and mutual learning
 - 📫 How to reach me via mrnithinthomas@gmail.com and also through Linkedin https://www.linkedin.com/in/mrnithinthomas/
