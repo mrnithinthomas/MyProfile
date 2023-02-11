@@ -4,13 +4,14 @@
 - 💞️ I’m looking to collaborate on learning and mutual learning
 - 📧 [Email](mailto:mrnithinthomas@gmail.com)
 - 🔗 [Linkedin](https://www.linkedin.com/in/mrnithinthomas/)
+- 📝 [Resume](https://drive.google.com/file/d/1ZOcK2G5qVbk1Tf9rmXX0FIKm7XEkeg7Z/view?usp=sharing)
 
 <!---
 mrnithinthomas/mrnithinthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Welcome to Nithin Thomas Profile
+## Welcome to my Profile
 ---
 A showcase of my projects, experience and abilities.
 
